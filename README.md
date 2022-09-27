@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Khot</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+<img align="right" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" alt="coding-gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vaishnavikhot&label=Profile%20views&color=0e75b6&style=flat" alt="vishalabhange" /> </p>
 - 🌱 I’m currently learning **Reactjs**
